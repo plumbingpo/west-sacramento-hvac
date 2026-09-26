@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://westsacramentohvac.com/sitemap.xml
